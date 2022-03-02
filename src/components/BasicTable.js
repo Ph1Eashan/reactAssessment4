@@ -36,7 +36,7 @@ const rows = [
     23,
     'MERN',
     'November',
-    <Link className='editlink' to='/addStudent'>
+    <Link className='editlink' to='/addStudents'>
       Edit
     </Link>
   ),
@@ -45,7 +45,7 @@ const rows = [
     23,
     'MERN',
     'September',
-    <Link className='editlink' to='/addStudent'>
+    <Link className='editlink' to='/addStudents'>
       Edit
     </Link>
   ),
@@ -54,7 +54,7 @@ const rows = [
     23,
     'MERN',
     'November',
-    <Link className='editlink' to='/addStudent'>
+    <Link className='editlink' to='/addStudents'>
       Edit
     </Link>
   ),
